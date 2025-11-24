@@ -1,0 +1,7 @@
+__pycache__/
+*.pkl
+*.index
+cache_*.*
+*.pdf
+.env
+main_day1.py
